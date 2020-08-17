@@ -1,12 +1,12 @@
 # Demo
 
-Some demo
+Some dem
 
 ## Sub header
 
 watch tutorial
 
 
-##local dev
+## local dev
 
 1) Bla bla
